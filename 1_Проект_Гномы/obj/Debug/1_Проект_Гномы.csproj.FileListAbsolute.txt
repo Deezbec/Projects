@@ -1,0 +1,6 @@
+D:\user\!Kirill\ООП\Проекты\1_Проект_Гномы\bin\Debug\1_Проект_Гномы.exe.config
+D:\user\!Kirill\ООП\Проекты\1_Проект_Гномы\bin\Debug\1_Проект_Гномы.exe
+D:\user\!Kirill\ООП\Проекты\1_Проект_Гномы\bin\Debug\1_Проект_Гномы.pdb
+D:\user\!Kirill\ООП\Проекты\1_Проект_Гномы\obj\Debug\1_Проект_Гномы.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Проекты\1_Проект_Гномы\obj\Debug\1_Проект_Гномы.exe
+D:\user\!Kirill\ООП\Проекты\1_Проект_Гномы\obj\Debug\1_Проект_Гномы.pdb

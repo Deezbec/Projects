@@ -1,0 +1,12 @@
+D:\user\!Kirill\ООП\Проекты\2 Проект Морской бой\bin\Debug\2 Проект Морской бой.exe.config
+D:\user\!Kirill\ООП\Проекты\2 Проект Морской бой\bin\Debug\2 Проект Морской бой.exe
+D:\user\!Kirill\ООП\Проекты\2 Проект Морской бой\bin\Debug\2 Проект Морской бой.pdb
+D:\user\!Kirill\ООП\Проекты\2 Проект Морской бой\obj\Debug\2 Проект Морской бой.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Проекты\2 Проект Морской бой\obj\Debug\2 Проект Морской бой.exe
+D:\user\!Kirill\ООП\Проекты\2 Проект Морской бой\obj\Debug\2 Проект Морской бой.pdb
+c:\User\!Kirill\ООП\Проекты\2 Проект Морской бой\bin\Debug\2 Проект Морской бой.exe.config
+c:\User\!Kirill\ООП\Проекты\2 Проект Морской бой\bin\Debug\2 Проект Морской бой.exe
+c:\User\!Kirill\ООП\Проекты\2 Проект Морской бой\bin\Debug\2 Проект Морской бой.pdb
+c:\User\!Kirill\ООП\Проекты\2 Проект Морской бой\obj\Debug\2 Проект Морской бой.csprojAssemblyReference.cache
+c:\User\!Kirill\ООП\Проекты\2 Проект Морской бой\obj\Debug\2 Проект Морской бой.exe
+c:\User\!Kirill\ООП\Проекты\2 Проект Морской бой\obj\Debug\2 Проект Морской бой.pdb

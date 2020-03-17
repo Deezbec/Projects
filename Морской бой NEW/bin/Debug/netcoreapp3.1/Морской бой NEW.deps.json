@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Морской бой NEW/1.0.0": {
+        "runtime": {
+          "Морской бой NEW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Морской бой NEW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
