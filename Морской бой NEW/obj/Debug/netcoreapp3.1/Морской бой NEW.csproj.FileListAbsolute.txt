@@ -9,3 +9,16 @@ C:\User\!Kirill\ООП\Проекты\Морской бой NEW\obj\Debug\netcor
 C:\User\!Kirill\ООП\Проекты\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.AssemblyInfo.cs
 C:\User\!Kirill\ООП\Проекты\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.dll
 C:\User\!Kirill\ООП\Проекты\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.pdb
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\bin\Debug\netcoreapp3.1\Морской бой NEW.exe
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\bin\Debug\netcoreapp3.1\Морской бой NEW.deps.json
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\bin\Debug\netcoreapp3.1\Морской бой NEW.runtimeconfig.json
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\bin\Debug\netcoreapp3.1\Морской бой NEW.runtimeconfig.dev.json
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\bin\Debug\netcoreapp3.1\Морской бой NEW.dll
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\bin\Debug\netcoreapp3.1\Морской бой NEW.pdb
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.csprojAssemblyReference.cache
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.csproj.CoreCompileInputs.cache
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.AssemblyInfoInputs.cache
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.AssemblyInfo.cs
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.dll
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.pdb
+C:\User\!Kirill\GitHub\Projects\Морской бой NEW\obj\Debug\netcoreapp3.1\Морской бой NEW.genruntimeconfig.cache
